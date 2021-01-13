@@ -1,0 +1,43 @@
+apiVersion: v1
+entries:
+  kmlinstaller:
+  - apiVersion: v2
+    appVersion: 0.0.1
+    created: "2021-01-11T17:24:29.640044554Z"
+    description: HMLInstaller deployment
+    digest: 85aa8f34bd3a686a21cde3a886212324666de65a9ca103b0260f3b00500db7b8
+    name: kmlinstaller
+    urls:
+    - https://raw.githubusercontent.com/KronML/kronml/master/tools/KMLCharts/kmlinstaller-0.0.1.tgz
+    version: 0.0.1
+  kmlpostgres:
+  - apiVersion: v2
+    appVersion: 0.0.1
+    created: "2021-01-11T17:24:29.640252486Z"
+    description: Postgres deployment
+    digest: 6a650020376b1ed72c624fb34ff783138911074d2991266a4dbbe67f8b0a6f97
+    name: kmlpostgres
+    urls:
+    - https://raw.githubusercontent.com/KronML/kronml/master/tools/KMLCharts/kmlpostgres-0.0.1.tgz
+    version: 0.0.1
+  kmlserver:
+  - apiVersion: v2
+    appVersion: 0.0.1
+    created: "2021-01-11T17:24:29.640369904Z"
+    description: KML server deployment
+    digest: 4a49d3154a32d5668c9285452b0b94509383164f8621c5c68b0efc0d7f2832c0
+    name: kmlserver
+    urls:
+    - https://raw.githubusercontent.com/KronML/kronml/master/tools/KMLCharts/kmlserver-0.0.1.tgz
+    version: 0.0.1
+  kmlzeus:
+  - apiVersion: v2
+    appVersion: 0.0.1
+    created: "2021-01-11T17:24:29.640476521Z"
+    description: KML deployment for ZEUS
+    digest: 5881d47571f27c9f3fe229c69e6070d8cf50a105bca8bedbf5f24307c92cc01a
+    name: kmlzeus
+    urls:
+    - https://raw.githubusercontent.com/KronML/kronml/master/tools/KMLCharts/kmlzeus-0.0.1.tgz
+    version: 0.0.1
+generated: "2021-01-11T17:24:29.638756155Z"
