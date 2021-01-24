@@ -3,9 +3,9 @@ entries:
   kmlinstaller:
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2021-01-13T09:10:38.944215411Z"
+    created: "2021-01-24T10:17:14.327207558Z"
     description: HMLInstaller deployment
-    digest: d43edf4584c461a371ce147edcc83900a985e20fa4d86a07c77b4f05adb29632
+    digest: d86354742ab21cd1ab4650429a4c33f169493d28757f5166b6e078c3e1c9826f
     name: kmlinstaller
     urls:
     - https://raw.githubusercontent.com/KronML/KMLCharts/main/kmlinstaller-0.0.1.tgz
@@ -13,9 +13,9 @@ entries:
   kmlpostgres:
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2021-01-13T09:10:38.944439105Z"
+    created: "2021-01-24T10:17:14.327505759Z"
     description: Postgres deployment
-    digest: 565f79732a32cddd794ed11809c831b8d85f63c4caef7e6d8a98ef33a014daed
+    digest: 97592de1f70a70e941be9ceb0db992287ff0e4b11e99195f60a7c1c7f3776887
     name: kmlpostgres
     urls:
     - https://raw.githubusercontent.com/KronML/KMLCharts/main/kmlpostgres-0.0.1.tgz
@@ -23,21 +23,31 @@ entries:
   kmlserver:
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2021-01-13T09:10:38.944568101Z"
+    created: "2021-01-24T10:17:14.32775706Z"
     description: KML server deployment
-    digest: 333846cd6cac678ad07c0f656765c3d123552715172f8c278059e32e2d348d52
+    digest: 6fb7f7d5c33e109410eb1766eba660aa2b118f1e667cde555b1d7e3519e8a28a
     name: kmlserver
     urls:
     - https://raw.githubusercontent.com/KronML/KMLCharts/main/kmlserver-0.0.1.tgz
     version: 0.0.1
+  kmluiwebapp:
+  - apiVersion: v2
+    appVersion: 0.0.1
+    created: "2021-01-24T10:17:14.32795776Z"
+    description: UI Webapp deployment for KML UI
+    digest: 5485a4b561c00d5e7087bfecfd448aee71991fa3462cf79fe75d21860a2df3da
+    name: kmluiwebapp
+    urls:
+    - https://raw.githubusercontent.com/KronML/KMLCharts/main/kmluiwebapp-0.0.1.tgz
+    version: 0.0.1
   kmlzeus:
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2021-01-13T09:10:38.944684098Z"
+    created: "2021-01-24T10:17:14.328361962Z"
     description: KML deployment for ZEUS
-    digest: d55c44671429e08f6c481693d1a2e576ad4f606c8ad5f8424b9e610339a58ea6
+    digest: 1de6ee4c330dc1e5a17e08b8f14b0d561ece30813508b23ef83695af1944c59f
     name: kmlzeus
     urls:
     - https://raw.githubusercontent.com/KronML/KMLCharts/main/kmlzeus-0.0.1.tgz
     version: 0.0.1
-generated: "2021-01-13T09:10:38.943258937Z"
+generated: "2021-01-24T10:17:14.326678355Z"
