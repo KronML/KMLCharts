@@ -3,9 +3,9 @@ entries:
   kmlinstaller:
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2021-01-29T09:09:31.5051995+05:30"
+    created: "2021-01-29T09:26:49.4624907+05:30"
     description: HMLInstaller deployment
-    digest: f4cbf400304e723cb293b9acef5a9ca520515cc87fc25aeb205770cf1e14c080
+    digest: de989bf7f20341864b94aadbe5c3edf006ac41cf80ace3443355fd6c696b6638
     name: kmlinstaller
     urls:
     - https://raw.githubusercontent.com/KronML/KMLCharts/main/kmlinstaller-0.0.1.tgz
@@ -13,9 +13,9 @@ entries:
   kmlpostgres:
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2021-01-29T09:09:31.5053717+05:30"
+    created: "2021-01-29T09:26:49.462933+05:30"
     description: Postgres deployment
-    digest: 79feb6c22bdf1d15fe3300d815c71f49043a45d3f7ede71ba4abb38a561fa41f
+    digest: 2c5415ec73d7f5c7618da51528c64555f05dffc8c22b9e4019499f3b191e7a15
     name: kmlpostgres
     urls:
     - https://raw.githubusercontent.com/KronML/KMLCharts/main/kmlpostgres-0.0.1.tgz
@@ -23,9 +23,9 @@ entries:
   kmlserver:
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2021-01-29T09:09:31.5056789+05:30"
+    created: "2021-01-29T09:26:49.4631489+05:30"
     description: KML server deployment
-    digest: d0c5618b9e7b12a1ef382a79a0dfa932136bdf78d1777ae31818e8847f036e7f
+    digest: 3d03fb7020b21d4f04b6f9d807b1c43f72446b43852521232da371b73c493754
     name: kmlserver
     urls:
     - https://raw.githubusercontent.com/KronML/KMLCharts/main/kmlserver-0.0.1.tgz
@@ -33,9 +33,9 @@ entries:
   kmluiwebapp:
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2021-01-29T09:09:31.5058273+05:30"
+    created: "2021-01-29T09:26:49.4633335+05:30"
     description: UI Webapp deployment for KML UI
-    digest: da5556c133cdde968600eebcfa00a33f99897c6873aacd864ab89f561edcaee8
+    digest: a09a84bbb2372b45c977ec02faed889ae7a99fcc37585249ecdd007ed613b843
     name: kmluiwebapp
     urls:
     - https://raw.githubusercontent.com/KronML/KMLCharts/main/kmluiwebapp-0.0.1.tgz
@@ -43,11 +43,11 @@ entries:
   kmlzeus:
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2021-01-29T09:09:31.5059681+05:30"
+    created: "2021-01-29T09:26:49.4634714+05:30"
     description: KML deployment for ZEUS
-    digest: 8eece5494d7cf6e82eb37a6c9246b193fd75b1fbc85f29af0ba91e5f7062b142
+    digest: f2a94adbc0dca2561159946b05063c1e18f7f743d3bebe394a86c96e22486101
     name: kmlzeus
     urls:
     - https://raw.githubusercontent.com/KronML/KMLCharts/main/kmlzeus-0.0.1.tgz
     version: 0.0.1
-generated: "2021-01-29T09:09:31.504965+05:30"
+generated: "2021-01-29T09:26:49.462263+05:30"
