@@ -1,11 +1,21 @@
 apiVersion: v1
 entries:
+  kmlfednamespace:
+  - apiVersion: v2
+    appVersion: 0.0.1
+    created: "2021-03-15T07:34:52.139848737Z"
+    description: Federated namespace deployment
+    digest: d321bb6e160ce34fa0a6d5572cd09bbc3ec976ca52739639b094306a2644545c
+    name: kmlfednamespace
+    urls:
+    - https://raw.githubusercontent.com/KronML/KMLCharts/main/kmlfednamespace-0.0.1.tgz
+    version: 0.0.1
   kmlinstaller:
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2021-02-05T13:27:14.5274417+05:30"
+    created: "2021-03-15T07:34:52.140618499Z"
     description: HMLInstaller deployment
-    digest: 864c88292562effe37d733b2ff4335d4f3091309eed1acb37a46cb7851fe12e8
+    digest: 6c6060ba9b5dd9990d8e04c4759f47c915f320d3dfd5a827cf5f6f31bea41438
     name: kmlinstaller
     urls:
     - https://raw.githubusercontent.com/KronML/KMLCharts/main/kmlinstaller-0.0.1.tgz
@@ -13,10 +23,10 @@ entries:
   kmlpgadmin:
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2021-02-05T13:27:14.5314399+05:30"
+    created: "2021-03-15T07:34:52.142729693Z"
     description: kmlpgAdmin is a web based administration tool for the PostgreSQL
       database.
-    digest: e7f604bb27a7a1c7d9ae06165d09993221043d9738e3c63fd8d75843bcafdd1d
+    digest: 59f26e201c8a358a15507c381987e5fd0a35810f45e2887b91243cd4d249c87a
     home: https://www.pgadmin.org/
     icon: https://wiki.postgresql.org/images/3/30/PostgreSQL_logo.3colors.120x120.png
     keywords:
@@ -34,9 +44,9 @@ entries:
   kmlpostgres:
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2021-02-05T13:27:14.5322455+05:30"
+    created: "2021-03-15T07:34:52.143392605Z"
     description: Postgres deployment
-    digest: f4781e58781267b9bfd4eee58b7d0d2f8faa3d997ce02d14729d53469fd90789
+    digest: 60dae1d5aa042537988cf2bd9fdf123fa3e3cd0786e3574ccaa6c8f88e36f484
     name: kmlpostgres
     urls:
     - https://raw.githubusercontent.com/KronML/KMLCharts/main/kmlpostgres-0.0.1.tgz
@@ -44,9 +54,9 @@ entries:
   kmlserver:
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2021-02-05T13:27:14.5327536+05:30"
+    created: "2021-03-15T07:34:52.143938662Z"
     description: KML server deployment
-    digest: 3f306171dab1450976e677ab41336eb4073abeebe78fa1a472792d47f466efd7
+    digest: d7e629621666acf0360115b9dc2c747b27db33aa53ed5a6e1053854dd2dc4bbc
     name: kmlserver
     urls:
     - https://raw.githubusercontent.com/KronML/KMLCharts/main/kmlserver-0.0.1.tgz
@@ -54,9 +64,9 @@ entries:
   kmluiwebapp:
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2021-02-05T13:27:14.5333472+05:30"
+    created: "2021-03-15T07:34:52.144361561Z"
     description: UI Webapp deployment for KML UI
-    digest: e7d3b3aa072c0c0943e525d5eb353d8e9ad05cff58bc4810bb0049df96ab1166
+    digest: bac9dc2fda28e174dfee3d3cb8165a0a1e8fa1f78945189190ff88c462e9becf
     name: kmluiwebapp
     urls:
     - https://raw.githubusercontent.com/KronML/KMLCharts/main/kmluiwebapp-0.0.1.tgz
@@ -64,11 +74,11 @@ entries:
   kmlzeus:
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2021-02-05T13:27:14.5338129+05:30"
+    created: "2021-03-15T07:34:52.144758448Z"
     description: KML deployment for ZEUS
-    digest: c8e32e613c253ef0707175de81d68e0eb92dab05efc19fbd3fe817564495d5ea
+    digest: 8c2068668d7a2aae0ca48cf590af1d1aafda9d6098beea22a736d0b633df017d
     name: kmlzeus
     urls:
     - https://raw.githubusercontent.com/KronML/KMLCharts/main/kmlzeus-0.0.1.tgz
     version: 0.0.1
-generated: "2021-02-05T13:27:14.5261376+05:30"
+generated: "2021-03-15T07:34:52.136462343Z"
